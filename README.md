@@ -49,7 +49,7 @@ Output:
 | Afghanistan | 25500100   | 652230  |
 | Algeria     | 37100000   | 2381741 |
 
-
+S
 
 
 
