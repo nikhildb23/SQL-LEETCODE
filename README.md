@@ -60,7 +60,7 @@ where area >='3000000' or population >='25000000';
 
 Table: Products
 
-|-------------|--------|
+
 | Column Name | Type    |
 |-------------|---------|
 | product_id  | int     |
@@ -107,4 +107,17 @@ WHERE LOW_FATS='Y' AND RECYCLABLE='Y';
 
 ```
 
+584. Find Customer Referee
+
+Table: Customer
+
+
+| Column Name | Type    |
+|------------|----------|
+| id          | int     |
+| name        | varchar |
+| referee_id  | int     |
+
+id is the primary key column for this table.
+Each row of this table indicates the id of a customer, their name, and the id of the customer who referred them.
 
